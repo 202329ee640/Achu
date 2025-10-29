@@ -1,4 +1,4 @@
 EPD-5299  PVP,V Phase Ck List
-EPD-5132  20C Testing
+EPD-5132  20C Temp Test
 EPD-3536  CFT Approvals
 EPD-3730  Supplier doc, EMC Test
