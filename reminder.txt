@@ -1,4 +1,4 @@
 EPD-5299  PVP,Vph Ck List achuvijoy.vs@thermofisher.com
-EPD-5132  20C Temp Test
+EPD-5132  20°C temperature testing 8 hours
 EPD-3536  CFT Approval
 EPD-3730  Supplier doc
